@@ -1,0 +1,24 @@
+/oop_explanation/
+│
+├── oop_explanation.html       # Explanation file
+├── classes_and_objects.php    # Code for Classes and Objects
+├── properties_and_methods.php # Code for Properties and Methods
+├── access_modifiers.php       # Code for Access Modifiers
+├── constructor_destructor.php # Code for Constructor and Destructor
+├── classes_and_objects.php    # Code for Classes and Objects
+├── properties_and_methods.php # Code for Properties and Methods
+├── access_modifiers.php       # Code for Access Modifiers
+├── constructor_destructor.php # Code for Constructor and Destructor
+├── inheritance.php            # Code for Inheritance
+├── method_overriding.php      # Code for Method Overriding
+├── static_properties_methods.php # Code for Static Properties and Methods
+├── encapsulation.php          # Code for Encapsulation
+├── abstraction.php            # Code for Abstraction (Abstract Classes and Interfaces)
+├── polymorphism.php           # Code for Polymorphism
+├── traits.php                 # Code for Traits
+├── magic_methods.php          # Code for Magic Methods
+├── namespaces.php             # Code for Namespaces
+├── autoloading.php            # Code for Autoloading Classes
+├── type_hinting.php           # Code for Type Hinting and Return Types
+├── final_keyword.php          # Code for Final Keyword
+└── object_cloning.php         # Code for Object Cloning
